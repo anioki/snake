@@ -24,5 +24,7 @@ snake
 ````   
 ### In work  
 World size is 32x32 blocks. Rules of the game are the same as the classic snake game.  
-   
-![Example screen](https://user-images.githubusercontent.com/77074682/122379209-5045c000-cf6f-11eb-83d6-9481c3893cd5.png 'Example screen')
+The goal of the project was to create something easy and trivial for understanding and new for me from a programming point of view.  
+Example of game:
+![Example screen](https://user-images.githubusercontent.com/77074682/122652535-1b409580-d148-11eb-93d5-c310e032bd43.gif 'Example screen')  
+
